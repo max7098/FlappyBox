@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=curVel
+comment0.target=int\ newVelocity(int)
+comment1.params=curHeight\ vel
+comment1.target=int\ newHeight(int,\ int)
+numComments=2
